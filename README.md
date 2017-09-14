@@ -13,4 +13,4 @@ Build a single-page application imageboard using Backbone.js
 ## Solution
 Created an imageboard to display local hipster stores in Berlin where users can choose to upload their own suggestions of off the grid places to check out.
 
-<img src="https://github.com/haaabla/backbonejs-imageboard/blob/master/imageboard.png" alt="" style="width: 100%" />
+<img src="https://github.com/islanderupnorth/backbonejs-imageboard/blob/master/imageboard.gif" alt="" style="width: 100%" />
